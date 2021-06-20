@@ -1,0 +1,2 @@
+# postgraduate-D42
+I've been staying at home these days. I feel that I can't learn at all. It's really hard to prepare for the final exam. This embedded system is too difficult, and the wireless sensor doesn't know what to test. However, the teachers said that they would help me, and I don't know what they would help me. After the exam, I have to go to work. Java is also common, a little flustered.
